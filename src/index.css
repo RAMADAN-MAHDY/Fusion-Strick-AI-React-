@@ -1,0 +1,14 @@
+@import "tailwindcss";
+:root{
+  --primary-color: #080808;
+  --secondary-color: #111313;
+  --gray-color: #8F8F8F;
+}
+
+html,body{
+  background-color: var(--primary-color);
+  /* padding: 18px; */
+  
+  height: 100%;
+  overflow: hidden;
+}
